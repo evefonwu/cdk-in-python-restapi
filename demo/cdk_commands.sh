@@ -1,8 +1,8 @@
-# Useful CDK in Python related commands when starting a new project:
+# CDK in Python related commands used to start this CDK project:
 
 ```sh
-$ mkdir project-name
-$ cd project-name 
+$ mkdir inventory_api
+$ cd inventory_api 
 $ cdk init --language python
 ```
 
