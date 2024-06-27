@@ -1,4 +1,4 @@
-# Deploy REST API with CDK in Python Tutorial
+# Deploy REST API with CDK in Python
 
 YouTube Video: [Deploy a REST API with CDK in Python]()
 
