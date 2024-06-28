@@ -1,8 +1,11 @@
-# Deploy REST API with CDK in Python
+# Deploy a REST API with CDK in Python
 
-YouTube Video: [Deploy a REST API with CDK in Python]()
+YouTube Video: [REST API with CDK in Python](https://youtu.be/kWED0OwpUb0)
 
-In this video, we are using CDK in Python to define and deploy infrastructure resources for a demo inventory service API.
+Learn how to use AWS CDK in Python to define and deploy infrastructure resources. In this video, we deploy a stack for the demo inventory service API.
+
+For more information on the demo inventory API and API testing, check this video:
+[OpenAPI, AWS, Postman - Building a REST API](https://youtu.be/3h-anwBFio8)
 
 ## Steps
 
